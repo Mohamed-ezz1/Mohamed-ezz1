@@ -16,19 +16,30 @@
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 ### Languages and Tools 🛠 : 
+### Languages and Tools 🛠
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-3DDC84?style=flat-square&logo=responsive-design&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
+![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
+![OOP](https://img.shields.io/badge/-OOP-008000?style=flat-square)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=ffffff)
+![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat-square&logo=dot-net&logoColor=ffffff)
+![Web Forms](https://img.shields.io/badge/-Web%20Forms-512BD4?style=flat-square&logo=dot-net&logoColor=ffffff)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=dot-net&logoColor=ffffff)
+![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat-square&logo=dot-net&logoColor=ffffff)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+
 
 
 
 - ### I’m currently learning 
-![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=flat-square&logo=asp.net&logoColor=ffffff)
+![ASP.NET Web API](https://img.shields.io/badge/-ASP.NET%20Web%20API-512BD4?style=flat-square&logo=asp.net&logoColor=ffffff)
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
