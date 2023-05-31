@@ -34,19 +34,11 @@
 ![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat-square&logo=dot-net&logoColor=ffffff)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
-
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 - ### I’m currently learning 
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=flat-square&logo=asp.net&logoColor=ffffff)
 ![ASP.NET Web API](https://img.shields.io/badge/-ASP.NET%20Web%20API-512BD4?style=flat-square&logo=asp.net&logoColor=ffffff)
-
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-
-
-
-
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
