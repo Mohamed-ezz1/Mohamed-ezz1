@@ -6,7 +6,7 @@
 I’m a **Full-Stack Web Developer** with 1 year of experience, specializing in **.NET** and **Angular**.  
 I enjoy building scalable web applications, implementing workflows, and optimizing background jobs.
 
-- 🔹 **Frontend:** Angular, TypeScript, HTML5, CSS3  
+- 🔹 **Frontend:** Angular, TypeScript, HTML, CSS  
 - 🔹 **Backend:** ASP.NET Core, MVC, Web API, Entity Framework Core, LINQ  
 - 🔹 **Background Jobs:** Hangfire, Workflow Core  
 - 🔹 **Low-Code/No-Code:** Frappe (basic experience)  
@@ -18,8 +18,8 @@ I enjoy building scalable web applications, implementing workflows, and optimizi
 ### 🚀 **Frontend**
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)
 
 ### ⚡ **Backend**
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=ffffff)
@@ -39,7 +39,6 @@ I enjoy building scalable web applications, implementing workflows, and optimizi
 ## 🌱 I’m Currently Learning  
 - 🔸 **SSO & Authentication** (OpenID Connect)  
 - 🔸 **Low-Code & No-Code Solutions** (Exploring alternatives to Frappe)  
-- 🔸 **Cloud & DevOps** (Azure, Docker)  
 
 ---
 
