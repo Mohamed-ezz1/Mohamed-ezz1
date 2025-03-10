@@ -50,7 +50,8 @@ I enjoy building scalable web applications, implementing workflows, and optimizi
 
 
 🚀 Let’s Connect!  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-ezz-elarab/) | 📧 [Email Me](mohamed.ezzelarab101@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-ezz-elarab/) | 📧 [Email Me](mailto:mohamed.ezzelarab101@gmail.com)
+
 
 ## 🎉 Fun Fact  
 
