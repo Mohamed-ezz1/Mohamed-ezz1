@@ -45,16 +45,22 @@ I enjoy building scalable web applications, implementing workflows, and optimizi
 ## 📈 GitHub Stats  
 
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-ezz1&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mohamed-ezz1&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-ezz1&theme=radical)  
 
 ---
 
+
+🚀 Let’s Connect!
+🔗 LinkedIn | 📧 Email: [your-email@example.com](https://www.linkedin.com/in/mohamed-ezz-elarab/)
+
+
 ## 🎉 Fun Fact  
 
-##### I once solved the world's oldest question with a single line of JavaScript 😆:  
+#### Did you know?  
+**I once coded a time machine... but it only works in one direction!** 🚀  
 
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort());
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
+```csharp
+// My time machine in C#:
+DateTime timeMachine = DateTime.Now;
+Console.WriteLine($"🚀 Traveling to the future... {timeMachine.AddSeconds(5)}");
+(Spoiler: It’s just how time works 😆)
