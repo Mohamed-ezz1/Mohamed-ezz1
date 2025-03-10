@@ -44,8 +44,8 @@ I enjoy building scalable web applications, implementing workflows, and optimizi
 
 ## 📈 GitHub Stats  
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=radical)  
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-ezz1&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mohamed-ezz1&theme=radical)  
 
 ---
 
