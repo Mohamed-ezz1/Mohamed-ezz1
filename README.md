@@ -45,14 +45,12 @@ I enjoy building scalable web applications, implementing workflows, and optimizi
 ## 📈 GitHub Stats  
 
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-ezz1&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-ezz1&theme=radical)  
 
 ---
 
 
-🚀 Let’s Connect!
-🔗 LinkedIn | 📧 Email: [your-email@example.com](https://www.linkedin.com/in/mohamed-ezz-elarab/)
-
+🚀 Let’s Connect!  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-ezz-elarab/) | 📧 [Email Me](mohamed.ezzelarab101@gmail.com)
 
 ## 🎉 Fun Fact  
 
