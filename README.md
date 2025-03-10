@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 I'm Mohamed, Welcome to My GitHub Profile 🚀</h1>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Hacker GIF" width="380" height="280">
 
 ## 🚀 About Me  
 I’m a **Full-Stack Web Developer** with 1 year of experience, specializing in **.NET** and **Angular**.  
