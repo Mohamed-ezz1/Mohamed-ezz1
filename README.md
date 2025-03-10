@@ -38,7 +38,7 @@ I enjoy building scalable web applications, implementing workflows, and optimizi
 
 ## 🌱 I’m Currently Learning  
 - 🔸 **SSO & Authentication** (OpenID Connect)  
-- 🔸 **Low-Code & No-Code Solutions** (Exploring alternatives to Frappe)  
+- 🔸 **Low-Code & No-Code Solutions
 
 ---
 
