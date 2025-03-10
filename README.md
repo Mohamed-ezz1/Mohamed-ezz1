@@ -1,6 +1,7 @@
 <h1 align="center">Hello! 👋 I'm Mohamed, Welcome to My GitHub Profile 🚀</h1>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="380" height="280">
+<img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Hacker GIF" width="380" height="280">
+
 
 
 ## 🚀 About Me  
